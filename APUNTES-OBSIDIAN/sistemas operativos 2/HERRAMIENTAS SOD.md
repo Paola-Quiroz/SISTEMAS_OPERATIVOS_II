@@ -1,0 +1,4 @@
+-MPI (Message Passing Interface).
+-Apache Hadoop.
+-Apache Spark.
+-OpenMP (Open Muti-)

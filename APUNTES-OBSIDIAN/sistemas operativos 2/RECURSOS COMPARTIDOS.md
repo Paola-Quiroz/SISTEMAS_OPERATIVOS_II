@@ -1,0 +1,2 @@
+-Todos los recursos en un sistema operativo distribuido pueden ser compartidos entre los diferentes nodos. Esto incluye archivos, dispositivos de entrada/salida, y poder de pensamiento.
+-Esto maximiza la eficiencia del sistema al distribuir las cargas de trabajo y utilizar los recursos disponibles de manera optima. 

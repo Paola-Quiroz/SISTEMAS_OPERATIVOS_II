@@ -1,0 +1,1 @@
+Los sistemas operativos distribuidos están diseñados para ser tolerantes a fallos. Si un nodo falla

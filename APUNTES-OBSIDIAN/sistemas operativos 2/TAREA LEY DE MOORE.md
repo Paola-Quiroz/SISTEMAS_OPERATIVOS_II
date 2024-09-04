@@ -1,0 +1,3 @@
+La ley de Moore es una observación hecha por Gordon More, cofundador de Intel, en 1965.
+Según esta ley, el numero de transistores en un microprocesador se duplica aproximadamente cada dos años, lo que resalta en un aumento exponencial en la potencia de procesamiento y en la capacidad de almacenamiento de los dispositivos electrónicos, mientras que los costos disminuyen. 
+Ha sido ampliamente utilizada para prever el desarrollo de la tecnología de semiconductores durante décadas. Sin embargo, en años recientes, la tasa de avance ha comenzado a desacelerarse debido a limitaciones físicas y tecnológicas en la miniaturización de los transistores.

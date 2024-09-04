@@ -1,0 +1,2 @@
+-Los nodos en un sistema distribuido necesitan comunicarse y coordinarse entre si. Esto se logra a través de protocolos de comunicación como RPC (Remote Procedure Call) o mensajes.
+-La coordinación asegura que las tareas distribuidas se completen de manera eficiente y que los recursos no se usen en exceso o de manera ineficiente. 
